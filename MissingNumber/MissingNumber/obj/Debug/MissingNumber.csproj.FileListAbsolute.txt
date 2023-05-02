@@ -1,0 +1,8 @@
+D:\UST\Day13\MissingNumber\MissingNumber\bin\Debug\MissingNumber.exe.config
+D:\UST\Day13\MissingNumber\MissingNumber\bin\Debug\MissingNumber.exe
+D:\UST\Day13\MissingNumber\MissingNumber\bin\Debug\MissingNumber.pdb
+D:\UST\Day13\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.AssemblyReference.cache
+D:\UST\Day13\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day13\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.CoreCompileInputs.cache
+D:\UST\Day13\MissingNumber\MissingNumber\obj\Debug\MissingNumber.exe
+D:\UST\Day13\MissingNumber\MissingNumber\obj\Debug\MissingNumber.pdb

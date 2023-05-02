@@ -1,0 +1,8 @@
+D:\UST\Day13\subarray2\subarray2\bin\Debug\subarray2.exe.config
+D:\UST\Day13\subarray2\subarray2\bin\Debug\subarray2.exe
+D:\UST\Day13\subarray2\subarray2\bin\Debug\subarray2.pdb
+D:\UST\Day13\subarray2\subarray2\obj\Debug\subarray2.csproj.AssemblyReference.cache
+D:\UST\Day13\subarray2\subarray2\obj\Debug\subarray2.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day13\subarray2\subarray2\obj\Debug\subarray2.csproj.CoreCompileInputs.cache
+D:\UST\Day13\subarray2\subarray2\obj\Debug\subarray2.exe
+D:\UST\Day13\subarray2\subarray2\obj\Debug\subarray2.pdb
